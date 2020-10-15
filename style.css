@@ -1,0 +1,58 @@
+#dots {
+    width: 30px;
+    height: 40px;
+    position: relative;
+    left: 300px;
+    top: -120px;
+    background-image: radial-gradient(circle, black 4px, transparent 5px);
+    background-size: 100% 33.33%;
+}
+
+#texttile {
+    position: relative;
+    left: 15px;
+    top: 100px
+}
+
+#like {
+    position: relative;
+    left: 15px;
+    top: 100px
+}
+
+#signature {
+    position: relative;
+    left: 90px;
+    top: -36px;
+}
+
+#time {
+    position: relative;
+    left: 210px;
+    top: -65px
+}
+
+#card1 {
+    position: relative;
+    left: 80px;
+    top: 20px;
+    height: 400px;
+    width: 335px;
+    border: solid 3px black;
+}
+
+#profileimage {
+    position: relative;
+    left: 5px;
+    top: 100px
+}
+
+#username {
+    position: relative;
+    left: 90px;
+    top: -20px
+}
+
+#subtitle {
+    font-size: 14px
+}
