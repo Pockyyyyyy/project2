@@ -1,5 +1,3 @@
-
-
 .dots {
     width: 30px;
     height: 40px;
@@ -12,14 +10,15 @@
 
 .texttile {
     position: relative;
-    left: 10px;
-    top: -150px;
+    margin-left: 10px;
+    margin-right: 5px;
+    top: -155px;
 }
 
 .like {
     position: relative;
     left: 10px;
-    top: -90px
+    top: -153px
 }
 
 .signature {
@@ -46,7 +45,7 @@
 .profileimage {
     position: relative;
     left: 5px;
-    top: 100px 
+    top: 100px
 }
 
 .username {
@@ -63,7 +62,7 @@
     height: 200px;
     width: 335px;
     position: relative;
-    top: -140px;
+    top: -145px;
 }
 
 .likeimage {
