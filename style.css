@@ -1,0 +1,90 @@
+.dots {
+    width: 30px;
+    height: 40px;
+    position: relative;
+    left: 300px;
+    top: -170px;
+    background-image: radial-gradient(circle, black 4px, transparent 5px);
+    background-size: 100% 33.33%;
+}
+
+.texttile {
+    position: relative;
+    margin-left: 10px;
+    margin-right: 5px;
+    top: -155px;
+}
+
+.like {
+    position: relative;
+    left: 10px;
+    top: -153px
+}
+
+.signature {
+    position: relative;
+    left: 90px;
+    top: -74px;
+}
+
+.time {
+    position: relative;
+    left: 210px;
+    top: -105px
+}
+
+.card1 {
+    position: relative;
+    left: 80px;
+    top: 20px;
+    height: 400px;
+    width: 335px;
+    border: solid 3px black;
+}
+
+.profileimage {
+    position: relative;
+    left: 5px;
+    top: 100px
+}
+
+.username {
+    position: relative;
+    left: 90px;
+    top: -60px
+}
+
+.subtitles {
+    font-size: 14px
+}
+
+.textimage {
+    height: 200px;
+    width: 335px;
+    position: relative;
+    top: -145px;
+}
+
+.likeimage {
+    position: relative;
+    top: -34px;
+    left: 60px;
+}
+
+.headimage {
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+.comment {
+    position: relative;
+    top: -211px;
+    left: 260px;
+}
+
+.share {
+    position: relative;
+    top: -238px;
+    left: 300px;
+}
