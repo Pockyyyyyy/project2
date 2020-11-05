@@ -76,3 +76,15 @@
     top: 10px;
     left: 10px;
 }
+
+.comment {
+    position: relative;
+    top: -211px;
+    left: 260px;
+}
+
+.share {
+    position: relative;
+    top: -238px;
+    left: 300px;
+}
