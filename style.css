@@ -1,9 +1,11 @@
+
+
 .dots {
     width: 30px;
     height: 40px;
     position: relative;
     left: 300px;
-    top: -120px;
+    top: -170px;
     background-image: radial-gradient(circle, black 4px, transparent 5px);
     background-size: 100% 33.33%;
 }
@@ -11,8 +13,7 @@
 .texttile {
     position: relative;
     left: 10px;
-    top: -90px;
-    background-color: #edd5ad;
+    top: -150px;
 }
 
 .like {
@@ -24,13 +25,13 @@
 .signature {
     position: relative;
     left: 90px;
-    top: -36px;
+    top: -74px;
 }
 
 .time {
     position: relative;
     left: 210px;
-    top: -67px
+    top: -105px
 }
 
 .card1 {
@@ -45,13 +46,13 @@
 .profileimage {
     position: relative;
     left: 5px;
-    top: 100px
+    top: 100px 
 }
 
 .username {
     position: relative;
     left: 90px;
-    top: -20px
+    top: -60px
 }
 
 .subtitles {
@@ -62,11 +63,17 @@
     height: 200px;
     width: 335px;
     position: relative;
-    top: -90px;
+    top: -140px;
 }
 
 .likeimage {
     position: relative;
     top: -34px;
     left: 60px;
+}
+
+.headimage {
+    position: relative;
+    top: 10px;
+    left: 10px;
 }
